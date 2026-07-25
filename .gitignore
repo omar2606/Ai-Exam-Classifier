@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+job_outputs/
+temp_images/
+venv/
+.env
+*.pdf
